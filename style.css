@@ -1,0 +1,32 @@
+div{
+    text-align: center
+}
+body{
+    background: #F4DECB;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1,h2, h3{ 
+    color: #020100
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #94618E;
+        }
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #4bce51;
+}
+
