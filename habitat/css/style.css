@@ -1,0 +1,16 @@
+body{
+    background: #E7E6E5
+}
+
+ul{
+    list-style: none;
+}
+
+a:active {
+    color: #33ee33
+}
+a:hover{
+    color: #33ee33;
+    text-decoration: none;
+    font-style: italic;
+}

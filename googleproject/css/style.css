@@ -1,0 +1,61 @@
+.google_box{
+    margin-top: 200px;
+    width: 334px;
+}
+.topnav{
+    float: auto; 
+   display: block;
+    color: black;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 17px; 
+    }
+.searchbar {
+        width: 450px;
+        height: 40px;
+        padding: 2px;
+        background-color: white;
+        box-shadow: 2px 2px #a29e9e;
+    }
+    .button {
+        background-color: whitesmoke;
+        border: none;
+        color:black;
+        padding: 30px 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 30px 30px;
+        cursor: pointer;
+    }
+    
+    a:link, a:visited {
+        color: black;
+        padding: 5px 8px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+    }
+    
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    margin-bottom: 60px; /* Margin bottom by footer height */
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+footer {
+    background-color: lightgray;
+}
+

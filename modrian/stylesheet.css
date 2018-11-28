@@ -1,0 +1,86 @@
+body{
+    background: #f6f6f6;
+    }
+    
+    .painting {
+        background: #fff4db;
+        width: 400px;
+        height: 400px;
+        margin-top: 30px;
+        margin-right: auto;
+        margin-left: auto;
+        box-shadow: 10px 10px 10px #8d8d8d;
+                }
+    
+    .toprow{
+        height: 290px;
+            }
+    
+    .bigbox{
+        width: 290px;
+        height: 290px;
+    }
+
+    .red{
+        background: #cc3333;
+    }
+    .blue{
+        background: #0000ff;
+    }
+    .yellow{
+        background: #ffff00;
+    }
+    .black{
+        background: #000000;
+    }
+    
+    .right{
+        float: right;
+    }
+    .left{
+        float: left;
+    }
+    .divider1{
+        height: 290px;
+        width: 10px;
+    }
+    .mediumbox{
+        width: 100px;
+        height: 140px;
+    }
+    .divider2{
+        height: 10px;
+        width: 100px;
+    }
+    .middlerow{
+        width: 400px;
+        height: 10px;
+    }
+    .bottomrightbox{
+        height: 45px;
+        width: 20px;
+    }
+    .divider3{
+        height: 10px;
+        width: 20px;
+    }
+    .bottomtopbox{
+        height: 45px;
+        width: 20px;
+    }
+    .divider4{
+        height: 100px;
+        width: 10px;
+    }
+    .bottommiddle{
+        height: 100px;
+        width: 260px;
+    }
+    .divider5{
+        height: 100px;
+        width: 10px;
+    }
+    .bottomleft{
+        height: 100px;
+        width: 100px;
+    }
